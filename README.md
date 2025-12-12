@@ -12,12 +12,21 @@
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=java,c,js,py&theme=light)](https://skillicons.dev)
+
+
 [![My Skills](https://skillicons.dev/icons?i=spring,flask,nodejs,npm&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nginx,kafka&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,postman,latex,md&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=opencv,sklearn&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=gradle,maven&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,anaconda&theme=light)](https://skillicons.dev)
